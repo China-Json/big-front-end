@@ -12,4 +12,4 @@
 * [Vue+Webpack开发可复用的单页面富应用教程（技巧篇）](https://zhuanlan.zhihu.com/p/21702087)
 
 # 性能分析
-* [利用window.performance.timing进行性能分析](https://www.cnblogs.com/LuckyWinty/p/8053226.html)
+* [利用window.performance.timing进行性能检测](https://www.cnblogs.com/LuckyWinty/p/8053226.html)
