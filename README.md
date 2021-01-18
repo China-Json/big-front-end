@@ -11,6 +11,7 @@
 * [Vue+Webpack开发可复用的单页面富应用教程（配置篇）](https://zhuanlan.zhihu.com/p/21702056)
 * [Vue+Webpack开发可复用的单页面富应用教程（组件篇）](https://zhuanlan.zhihu.com/p/21702075)
 * [Vue+Webpack开发可复用的单页面富应用教程（技巧篇）](https://zhuanlan.zhihu.com/p/21702087)
+* [vue自定义组件（vue.use()，install）+全局组件+局部组件](https://www.cnblogs.com/wangtong111/p/11526342.html)
 ### 2. Vue源码解析:
 * [Vue你不得不知道的异步更新机制和nextTick原理](https://www.cnblogs.com/chanwahfung/p/13296293.html)
 
